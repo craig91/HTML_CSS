@@ -1,0 +1,12 @@
+This folder is explaining how div(s) in the header works.
+When I create a html file, I like to create a large sized div in the header.
+- 3 divs (Header right, left, and center)
+- 1200px is the width and 210px is the height
+- I divide the width of the div by 3 to get even sized div(s)
+- Use 3 different colors to represent each div
+- I float each one left because they will stack on top of eachother if 
+  there are not floating in that direction.
+
+**This method is good because you can use it as a bast to figure out
+where you might want to put things that are usually found in headers, such as: nav bars and/or icons that link somewhere else and logos 
+for your site.**
