@@ -1,0 +1,35 @@
+html{
+
+}
+
+
+body{
+ background-color: black;
+ height: 1200px;
+ width: 1200px;
+}
+
+
+.header-left{
+    background-color: red;
+    float: left;
+    height: 210px;
+    width: 400px;
+}
+
+
+.header-center{
+    background-color: white;
+    float: left;
+    height: 210px;
+    width: 400px;
+
+
+}
+
+.header-right{
+    background-color: blue;
+    float: left;
+    height: 210px;
+    width: 400px;
+}
