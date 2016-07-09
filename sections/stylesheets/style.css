@@ -1,0 +1,67 @@
+html{
+
+}
+
+
+body{
+	background-color: #FFE4C4;
+	width: 1200px;
+	height: 1200px;
+
+}
+
+header{
+	/*background: white;*/
+	height: 210px;
+	width: 1200px;
+	text-align: left;
+
+}
+
+.header-left{
+	background-color: red;
+	float: left;
+	height: 210px;
+	width: 400px;
+}
+
+.header-center{
+	background-color: black;
+	float: left;
+	height: 210px;
+	width: 400px;
+}
+
+.header-right{
+	background-color: blue;
+	float: left;
+	height: 210px;
+	width: 400px;
+}
+
+.category{
+	border-top: 1px solid black;
+	clear: both;
+	margin-bottom: 75px;
+	padding-top: 50px;
+	vertical-align: top;
+}
+
+.headline{
+	padding-bottom: 15px;
+	text-align: center;
+	vertical-align: top;
+}
+
+.title{
+	color: black;
+	font-family: "Libre Baskerville",serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 0.05em;
+	line-height: normal;
+	text-align: center;
+	text-transform: none;
+	vertical-align: top;
+}
