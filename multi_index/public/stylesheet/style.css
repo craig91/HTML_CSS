@@ -1,0 +1,46 @@
+html{
+
+
+}
+
+body{
+	background-color: black;
+	background-position: fixed;
+	width: 1200;
+}
+
+.header-left{
+	background-color: white;
+	width: 400px;
+	height: 210px;
+	float: left;
+
+}
+
+
+.header-center{
+	background-color: blue;
+	width: 400px;
+	height: 210px;
+	float: left;
+}
+
+.header-right{
+	background-color: red;
+	width: 400px;
+	height: 210px;
+	float: left;
+
+}
+
+.social-center{
+	float: center;
+    height: 32px;
+    margin-top: 120px;
+    width: 70px;
+    padding-left: 156px;
+}
+
+.text{
+    font-size: 32px;
+}
